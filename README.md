@@ -34,6 +34,10 @@ This is a Jetpack Compose-based Android application designed to manage and displ
 ## API Integration
 The app communicates with a remote API to fetch the list of rooms and their details. Make sure to update the API base URL in the project as per your requirements.
 
+## Prerequisites
+ - Android Studio
+ - Kotlin
+ - An Android device or emulator for testing
 ## Setup and Installation
 1. Clone the repository:
    ```bash
